@@ -16,18 +16,18 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Zdevowl
+  tagline: Engineer. Developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    #    twitter: zdevowl
+    github:  zdevowl
+    #    linkedIn: in/thelehhman
     rss: rss
  
 
