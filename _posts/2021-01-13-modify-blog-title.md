@@ -16,7 +16,7 @@ categories: Blog
 
 * zdevowl.github.io/_config.yml
 ```bash
-title: Zdevowl's Blog     # 타이틀
+title: Zdevowl\'s Blog     # 타이틀
 author: Zdevowl           # 작성자
 email: Zdevowl@gmail.com  # 이메일
 ```
