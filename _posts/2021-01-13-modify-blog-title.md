@@ -15,8 +15,8 @@ categories: Blog
 이 블로그의 경우 아래와 같은 파일이 있다. 맨 위에 3줄을 아래와 같이 고쳐주면 된다.
 
 * zdevowl.github.io/_config.yml
-```bash
-title: Zdevowl\'s Blog     # 타이틀
+```yml
+title: Zdevowl's Blog     # 타이틀
 author: Zdevowl           # 작성자
 email: Zdevowl@gmail.com  # 이메일
 ```
