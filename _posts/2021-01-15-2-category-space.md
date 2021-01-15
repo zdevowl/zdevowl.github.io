@@ -2,7 +2,7 @@
 layout: post
 title:  "카테고리에 띄어쓰기 넣는 방법"
 description: 카테고리 섹션에 띄어쓰기 넣는 방법
-date:   2021-01-13 17:10:00 +0900
+date:   2021-01-15 17:00:00 +0900
 categories: 
   - Blog
 ---
