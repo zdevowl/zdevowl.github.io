@@ -10,4 +10,4 @@ categories:
 그러나 각 카테고리를 띄어쓰기로 구분하고 있었기에 단순하게 쌍 따옴표로 묶어주면 된다고 생각했다.
 하지만 결과는 아래와 같았다.
 
-![NoApplySpace](2021-01-15-2-category-space-pic-1.JPG)
+![NoApplySpace](/_posts/2021-01-15-2-category-space-pic-1.JPG)
