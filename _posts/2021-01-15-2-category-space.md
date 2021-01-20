@@ -13,6 +13,7 @@ categories:
 categories: Bash Vim "Windows Terminal"
 ```
 하지만 결과는 아래와 같았다.
+
 ![NoApplySpace](https://github.com/zdevowl/zdevowl.github.io/blob/master/_posts/2021-01-15-2-category-space-pic-1.JPG?raw=true)
 
 검색을해봐도 잘 나오지 않다가 누군가 아래와 같은 방식으로 적은 것을 보았다.
@@ -24,5 +25,6 @@ categories:
 ```
 
 이제 원하는대로 나온다.
+
 ![ApplySpace](https://github.com/zdevowl/zdevowl.github.io/blob/master/_posts/2021-01-15-2-category-space-pic-2.JPG?raw=true)
 
